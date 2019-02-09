@@ -43,7 +43,8 @@ class App extends Component {
           {/* navigace - "react-router-dom" */}
           <Navigace />
 
-          {/* ------------------------------------------------------- */}
+
+          {/* -------------- REDUX ----------------------------------- */}
 
           <ReactRedux />
 
